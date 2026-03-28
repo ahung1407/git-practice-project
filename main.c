@@ -13,3 +13,7 @@ int main() {
     printf("Current memory available: %dKB\n", mem);
     return 0;
 }
+# Ví dụ: // Starting work on Feature C
+#include <stdio.h>
+
+// This function calculates the available system memory.
