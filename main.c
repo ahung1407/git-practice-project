@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// This function calculates the available system memory.
 int calculate_memory() {
     // A bug was introduced here!
     // This should not be a negative value.
