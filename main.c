@@ -8,7 +8,7 @@ int calculate_memory() {
 }
 
 int main() {
-    printf("Welcome to the System Module!\n");
+    printf("Welcome to the Enhanced System Module!\n"); // Important fix
     int mem = calculate_memory();
     printf("Current memory available: %dKB\n", mem);
     return 0;
