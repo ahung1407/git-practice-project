@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 int calculate_memory() {
-    // Returns memory in KB
-    return 1024;
+    // A bug was introduced here!
+    // This should not be a negative value.
+    return -1;
 }
 
 int main() {
