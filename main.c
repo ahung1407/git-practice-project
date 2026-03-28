@@ -13,3 +13,4 @@ int main() {
     printf("Current memory available: %dKB\n", mem);
     return 0;
 }
+oke con de
