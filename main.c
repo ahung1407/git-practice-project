@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, this is the main application.
-");
+    printf("Fancy UI is being displayed.\n");
+    printf("Hello, this is the main application.\n");
     return 0;
 }
